@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main(){
+    intx;
+    inty;
+    printf("Enter an interger value for x:")
+    scanf("%d" , &x );
+    y=x;
+    printf("value in X: %d\n",X);
+    printf("value assigned to y : %\n",y);
+    return 0;
+    } 
+   

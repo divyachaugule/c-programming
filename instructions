@@ -1,0 +1,8 @@
+0pen text editor 
+type code 
+save the file in your folder with extention .c   ex. demo.c
+open terminal -> 2 WAYS 
+compile the program use this command 
+gcc filename.c-o filenme
+if errors then goto the file and check the error 
+no -> run file  use this command .\filename 
